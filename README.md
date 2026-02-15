@@ -5,15 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=earl562&style=flat-square&color=black" alt="Profile Views"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/earlperry1/">
-    <img src="https://img.shields.io/static/v1?label&logo=linkedin&message=LinkedIn&style=for-the-badge&color=black" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?label&logo=linkedin&message=LinkedIn&style=for-the-badge&color=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://huggingface.co/earl562">
-    <img src="https://img.shields.io/static/v1?label&logo=huggingface&message=HuggingFace&style=for-the-badge&color=black" alt="HuggingFace"/>
+    <img src="https://img.shields.io/static/v1?label&logo=huggingface&message=HuggingFace&style=for-the-badge&color=FFD21E" alt="HuggingFace"/>
   </a>
 </p>
 
