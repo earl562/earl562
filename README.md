@@ -1,14 +1,14 @@
 ### Hi, I'm Earl Perry
 
-I find problems in industries I'm in — then I build AI to fix them.
+I build AI-powered products for the industries I'm in.
 
 <hr>
 
-- Building [MangoAI](https://github.com/earl562/mangoai) — fine-tuning a vision-language model to identify Florida mango varieties from leaf photos
-- Building [PlotLot](https://github.com/earl562/PlotLot) — AI agent that analyzes zoning codes and property feasibility for real estate developers
-- Working on [Hadza Translation](https://github.com/earl562/Hadza_Translation) — preserving an endangered click language spoken by ~1,000 people in Tanzania
-- Curating datasets on [HuggingFace](https://huggingface.co/earl562) — 9.2k+ views on mango varieties, 27 likes on Hadza translation data
-- Studying ML/LLMOps end-to-end — from training and evaluation to deployment and monitoring
+- Founder of [CreditCareAI](https://www.ccareai.com) — AI credit dispute platform, 30K+ users
+- Running [SoFloCleans](https://www.soflocleans.net) — AI-powered email orchestration processing 10K+ emails/day
+- Previously Data QA Engineer & Data Analyst at [Ally Financial](https://www.ally.com/)
+- FAMU alum — B.S. Interdisciplinary Studies, Quantitative Analysis
+- Datasets on [HuggingFace](https://huggingface.co/earl562)
 
 <hr>
 
