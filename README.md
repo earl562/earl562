@@ -24,7 +24,7 @@ When I'm not building: growing rare mango varieties in South Florida, playing go
 
 - [CreditCareAI](https://www.ccareai.com) — AI credit dispute platform, 30K+ users, Python/FastAPI, Next.js, Groq AI
 - [SoFloCleans](https://www.soflocleans.net) — AI-powered email orchestration, Claude Sonnet, HubSpot CRM, 10K+ emails/day
-- [Fintropolis](https://www.ally.com/fintropolis/) — Financial literacy game in Minecraft at Ally Financial, 5M+ downloads
+- [Fintropolis](https://www.allyfintropolis.com/) — Financial literacy game in Minecraft at Ally Financial, 5M+ downloads
 
 ## Currently Building
 
