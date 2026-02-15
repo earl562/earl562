@@ -19,13 +19,6 @@ I'm a builder. I find problems in industries I'm in and use AI to solve them.
 - 🥭 Growing rare mango varieties in South Florida
 - ⛳ Golf and jazz when I'm not building
 
------
+<hr>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/earlperry1/">
-    <img src="https://img.shields.io/static/v1?label&logo=linkedin&message=LinkedIn&style=for-the-badge&color=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="https://huggingface.co/earl562">
-    <img src="https://img.shields.io/static/v1?label&logo=huggingface&message=HuggingFace&style=for-the-badge&color=FFD21E" alt="HuggingFace"/>
-  </a>
-</p>
+Connect with me on <a href="https://www.linkedin.com/in/earlperry1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> or <a href="https://huggingface.co/earl562" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/></a>
