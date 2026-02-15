@@ -23,16 +23,11 @@
 
 Hi there,
 
-I'm a builder who works at the intersection of AI and real industries. I don't build demos — I build production systems that solve real problems for real people.
+I'm a builder. I find problems in industries I'm in and use AI to solve them.
 
-I've shipped an AI credit dispute platform serving **30K+ users** ([CreditCareAI](https://www.ccareai.com)), an AI-powered operations system processing **10K+ emails/day** ([SoFloCleans](https://www.soflocleans.net)), and helped create a financial literacy game that reached **5M+ downloads** in **7K+ classrooms** ([Fintropolis](https://www.allyfintropolis.com/)).
-
-Currently focused on **ML/LLMOps** — taking models from notebooks to production with proper training pipelines, evaluation, deployment, and monitoring. Studying the full stack: from fine-tuning vision-language models to building end-to-end MLOps pipelines.
-
-When I'm not building: growing rare mango varieties in South Florida, playing golf, and listening to jazz.
-
------
-
-<p align="center">
-  <i>Previously <b>Data QA Engineer</b> & <b>Data Analyst</b> at Ally Financial · <b>FAMU</b> alum</i>
-</p>
+- 🏗️ Built [CreditCareAI](https://www.ccareai.com) — AI credit dispute platform, 30K+ users
+- 🧹 Built [SoFloCleans](https://www.soflocleans.net) — AI-powered ops processing 10K+ emails/day
+- 🎮 Built [Fintropolis](https://www.allyfintropolis.com/) at Ally Financial — 5M+ downloads, 7K classrooms
+- 🧠 Currently focused on ML/LLMOps — training pipelines, evaluation, deployment, monitoring
+- 🥭 Growing rare mango varieties in South Florida
+- ⛳ Golf and jazz when I'm not building
