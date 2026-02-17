@@ -15,7 +15,7 @@ I'm a builder. I find problems in industries I'm in and use AI to solve them.
 - 🏗️ Built [CreditCareAI](https://www.ccareai.com) — AI credit dispute platform, 30K+ users
 - 🧹 Built [SoFloCleans](https://www.soflocleans.net) — AI-powered ops processing 10K+ emails/day
 - 🎮 Built [Fintropolis](https://www.allyfintropolis.com/) at Ally Financial — 5M+ downloads, 7K classrooms
-- 🧠 Currently focused on ML/LLMOps — training pipelines, evaluation, deployment, monitoring
+- 🧠 Currently focused on ML/LLMOps — data pipelines, evaluation, deployment, monitoring
 - 🥭 Growing rare mango varieties in South Florida
 - ⛳ Golf and jazz when I'm not building
 
