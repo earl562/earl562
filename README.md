@@ -21,7 +21,7 @@ Project 4 → Full CI/CD (GitHub Actions, keyless OIDC, Trivy, tfsec)
 Project 5 → Observability (OpenTelemetry, Prometheus, Grafana, SLOs)
 ```
 
-→ [View Portfolio](https://github.com/earl562/multi-cloud-portfolio)
+→ [View Portfolio](https://github.com/earlperry/cloudeng)
 
 ---
 
@@ -59,8 +59,8 @@ When someone asks "do you know AWS or GCP?" — the real answer is: I know how l
 
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [multi-cloud-portfolio](https://github.com/earl562/multi-cloud-portfolio) | Multi-cloud portfolio: same architecture on AWS, GCP, Azure | Terraform, K8s, Docker, GitHub Actions, OpenTelemetry |
-| [enclaiv](https://github.com/earl562/enclaiv) | Open-source AI agent sandboxing platform | Rust, Python, Docker |
+| [cloudeng](https://github.com/earlperry/cloudeng) | Multi-cloud portfolio: same architecture on AWS, GCP, Azure | Terraform, K8s, Docker, GitHub Actions, OpenTelemetry |
+| [enclaiv](https://github.com/earlperry/enclaiv) | Open-source AI agent sandboxing platform | Rust, Python, Docker |
 
 ---
 
